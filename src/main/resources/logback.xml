@@ -1,0 +1,12 @@
+<configuration>
+    <timestamp key="startTime" datePattern="yyyy-MM-dd-HH-mm-ss" />
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>[%d{HH:mm:ss} %-4level]: %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="info">
+        <appender-ref ref="CONSOLE" />
+    </root>
+</configuration>
