@@ -6,7 +6,7 @@ A helper bot to help manage your group on [Telegram](https://telegram.org/) app
 
 - [Requirements](#requirements)
 - [Usage](#usage)
-  - [How to Clone?](#how-to-clone)
+  - [How to Clone](#how-to-clone)
 
 ## Requirements
 
